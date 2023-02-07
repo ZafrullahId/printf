@@ -1,6 +1,6 @@
 /*
  * File: base_converters.c
- * Auth: Brennan D Baraban
+ * Auth: group project
  */
 
 #include "main.h"
