@@ -1,6 +1,6 @@
 /*
  * File: convert_c_percent_p.c
- * Auth: Brennan D Baraban
+ * Auth: group project
  */
 
 #include "main.h"
