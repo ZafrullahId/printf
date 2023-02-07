@@ -1,7 +1,7 @@
 /*
  * File: handlers.c
- * Auth: Brennan D Baraban
- *       Michael Klein
+ * Auth: group project
+ *       printf
  */
 
 #include "main.h"
